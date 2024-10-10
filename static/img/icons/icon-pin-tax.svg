@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-width: 1.02px;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-1, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        stroke-width: 1.13px;
+      }
+
+      .cls-2, .cls-4 {
+        fill: none;
+      }
+
+      .cls-5 {
+        font-family: NotoSansThai-Bold, 'Noto Sans Thai';
+        font-size: 6.36px;
+        font-variation-settings: 'wght' 700, 'wdth' 100;
+        font-weight: 700;
+      }
+
+      .cls-3 {
+        stroke-width: .99px;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <g>
+        <path class="cls-1" d="m19.19,21.46H3.86c-.54,0-.98-.44-.98-.98V1.52c0-.54.44-.98.98-.98h9.12l7.19,7.22v12.72c0,.54-.44.98-.98.98Z"/>
+        <polyline class="cls-2" points="19.81 7.76 13.06 7.76 12.98 .92"/>
+        <text class="cls-5" transform="translate(4.81 18.19)"><tspan x="0" y="0">TAX</tspan></text>
+        <line class="cls-3" x1="5.49" y1="10.73" x2="17.69" y2="10.73"/>
+        <line class="cls-3" x1="5.49" y1="7.85" x2="9.55" y2="7.85"/>
+        <line class="cls-3" x1="5.49" y1="4.96" x2="9.55" y2="4.96"/>
+      </g>
+      <rect class="cls-4" width="22" height="22"/>
+    </g>
+  </g>
+</svg>
